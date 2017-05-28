@@ -1,0 +1,2 @@
+# indomie-telor
+first draft 
